@@ -52,13 +52,13 @@ Here are some of the projects I've built:
 ### 🧠 Brain Booster 
 A comprehensive web-based application designed to enhance cognitive abilities, memory, focus, logical thinking, and mathematical skills through a series of engaging and interactive exercises.
 * **Technologies:** HTML, CSS, JavaScript
-* **Live Demo:** [Your Vercel App URL for Brain Booster]
+* **Live Demo:** [Click Here](https://brainbooster-zeta.vercel.app/)
 * **Repository:** [https://github.com/akshayanagiri/brainbooster-app](https://github.com/akshayanagiri/BrainBooster)
 
 ### 📸 PIXELOG
 A vintage-themed digital photo journal app for capturing daily moments, adding personalized notes, and saving them in an aesthetic, scrapbook-style gallery.
 * **Technologies:** HTML, CSS, JavaScript
-* **Live Demo:** [Your Vercel App URL for PIXELOG]
+* **Live Demo:** [Click Here](https://pixelogapp.vercel.app/)
 * **Repository:** [https://github.com/akshayanagiri/pixelog-app](https://github.com/akshayanagiri/pixelog_app)
 
 ### LogParsing
@@ -78,7 +78,7 @@ A utility for parsing and structuring raw log files. This project is designed to
 
 * **Portfolio:**
 * **GitHub:** [https://github.com/akshayanagiri](https://github.com/akshayanagiri)
-* **LinkedIn:** [Your LinkedIn profile link here](https://www.linkedin.com/in/sai-akshaya-nagiri/)
-* **Email:** akshayanagiri@gmail.com
+* **LinkedIn:** [https://www.linkedin.com/in/sai-akshaya-nagiri/](https://www.linkedin.com/in/sai-akshaya-nagiri/)
+* **Email:** akshayanagiri@gmail.com()
 
 ---
