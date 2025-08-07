@@ -111,7 +111,7 @@
                 <h3>🧠 Brain Booster</h3>
                 <p><i>A web-based application that enhances memory, focus, and logic skills through a suite of interactive games.</i></p>
                 <p>
-                    <a href="https://github.com/akshayanagiri/brainbooster-app" target="_blank">
+                    <a href="https://github.com/akshayanagiri/BrainBooster" target="_blank">
                         <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
                     </a>
                     <a href="https://brainbooster-zeta.vercel.app/" target="_blank">
@@ -123,7 +123,7 @@
                 <h3>📸 PIXELOG</h3>
                 <p><i>A vintage-themed digital photo journal that lets you save and personalize your moments in a scrapbook-style gallery.</i></p>
                 <p>
-                    <a href="https://github.com/akshayanagiri/pixelog-app" target="_blank">
+                    <a href="https://github.com/akshayanagiri/pixelog_app" target="_blank">
                         <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
                     </a>
                     <a href="https://pixelogapp.vercel.app/" target="_blank">
