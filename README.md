@@ -114,7 +114,7 @@
                     <a href="https://github.com/akshayanagiri/brainbooster-app" target="_blank">
                         <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
                     </a>
-                    <a href="https://brainbooster-app.vercel.app/" target="_blank">
+                    <a href="https://brainbooster-zeta.vercel.app/" target="_blank">
                         <img src="https://img.shields.io/badge/Live_Demo-0077B5?style=for-the-badge" alt="Live Demo">
                     </a>
                 </p>
