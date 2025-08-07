@@ -1,146 +1,106 @@
-<!-- Banner / Heading Section -->
-<div align="center">
-  <h1>Hi there 👋, I'm <span style="color:#00ADB5;">Sai Akshaya Nagiri</span></h1>
-  <p><strong>Full-Stack Developer | MERN Enthusiast | Tech Explorer</strong></p>
-  <p>💡 Passionate about building scalable apps that solve real-world problems</p>
-
-<!-- About Me (Centered + Styled) -->
-
-<div align="center">
-
-<h2>👋 Hello there! I'm <span style="color:#00ADB5;">Sai Akshaya Nagiri</span></h2>
-
-<p>Full Stack Developer | IoT Enthusiast | Problem Solver</p>
-
-<hr>
-
-<h3>🌐 Full Stack Development</h3>
-
-<p>
-I have a strong foundation in <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code>, and am currently delving into backend development with <code>Node.js</code>.<br>
-My focus is on mastering the <code>MERN stack</code>, with a passion for designing and developing web applications that are both functional and user-friendly.<br>
-I enjoy integrating modern frontend technologies with robust backend systems to create dynamic platforms.
-</p>
-
-<br>
-
-<h3>🤖 IoT Projects</h3>
-
-<p>
-I love working at the intersection of hardware and software.<br>
-I’ve built smart solutions like:<br>
-<strong>Gesture-Controlled Wheelchair using ESP-NOW</strong> ・ 
-<strong>IoT-enabled College Radio Station</strong> ・ 
-<strong>Smart Lamp (Bluetooth-controlled RGB LED)</strong> ・ 
-<strong>RFID-based Attendance System integrated with Google Sheets</strong><br>
-My IoT projects often involve <code>ESP32</code>, sensors, real-time data handling, and automation.
-</p>
-
-<br>
-
-<h3>🎯 Current Goals 2025</h3>
-
-<p>
-<strong>Mastering the MERN stack</strong> and developing full-stack projects.<br>
-<strong>Honing my skills in DSA</strong> to build a strong problem-solving foundation.<br>
-<strong>Securing a position as a Full Stack Developer</strong> by leveraging my skills and project experience.
-</p>
-
-<p>
-I strongly believe in learning by building, and I'm always excited to take on new challenges.<br>
-Let's connect and create something innovative together!
-</p>
-
-<br>
-
-
-</div>
-
-
-  <!-- Social Media Buttons -->
-  <a href="https://github.com/akshayanagiri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sai-akshaya-nagiri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:akshayanagiri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+<!-- Banner Section -->
+<h1 align="center">Hi there 👋, I'm <span style="color:#00ADB5;">Sai Akshaya Nagiri</span></h1>
+<p align="center"><strong>🚀 Full-Stack Developer | MERN Stack Enthusiast | IoT Explorer</strong></p>
+<p align="center">Transforming ideas into scalable, real-world applications.</p>
 
 ---
 
+## 👨‍💻 About Me
+
+I am a passionate Full-Stack Developer exploring the **MERN stack** while building scalable web applications. 
+
+
 ## 💻 Skills
 
-### 👨‍💻 Languages  
-`Java` `JavaScript` `Python` `C`
+### 🧠 Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
 ### 🎨 Frontend  
-`HTML5` `CSS3` `React`
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 ### ⚙️ Backend  
-`Node.js` `Express.js` `MySQL`
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-### 🛠 Tools & DevOps  
-`Git` `GitHub` `Vercel`
+### 🧰 Tools  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
-### 🌐 IoT & Embedded  
-`IoT` `Arduino`
+### 🌐 IoT & Embedded Systems  
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
+ESP32, Sensors, Real-Time Systems
 
 ### 📊 Data Science  
-`Python` `Data Analysis`
+Python, Data Analysis
 
-### 🧠 Technical Concepts  
-`DBMS` `OOPs` `DSA`
+### 📚 Fundamentals  
+DBMS, OOPs, DSA
 
 ---
 
 ## 🚀 Projects
 
 ### 🧠 Brain Booster  
-A web-based application that enhances memory, focus, logical thinking, and math skills through interactive exercises.  
+> A web app to boost memory, logic, focus, and math through fun exercises.  
 **Tech Stack**: HTML, CSS, JavaScript  
-🔗 [Repository](https://github.com/akshayanagiri/brainbooster-app) | 🌐 Live Demo: *Coming Soon*
+🔗 [Repository](https://github.com/akshayanagiri/brainbooster-app)
 
 ---
 
 ### 📷 PIXELOG  
-A vintage-themed digital photo journal that lets you save and personalize your moments in a scrapbook-style gallery.  
+> A vintage photo journal with a scrapbook-style UI.  
 **Tech Stack**: HTML, CSS, JavaScript  
-🔗 [Repository](https://github.com/akshayanagiri/pixelog-app) | 🌐 Live Demo: *Coming Soon*
+🔗 [Repository](https://github.com/akshayanagiri/pixelog-app)
 
 ---
 
 ### 📄 LogParsing  
-Utility to parse and structure raw log files into a readable format for analysis and monitoring.  
+> Utility to parse and format raw log files for better readability and analysis.  
 **Tech Stack**: Python  
 🔗 [Repository](https://github.com/akshayanagiri/LogParsing)
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 🎯 2025 Goals
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayanagiri&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayanagiri&layout=compact&theme=radical)
+- 🧠 Master the MERN Stack & contribute to full-stack projects  
+- 📚 Sharpen problem-solving with DSA practice  
+- 💼 Land a role as a Full Stack Developer  
+- 🤝 Collaborate on real-world tech innovations  
 
 ---
 
-## 📫 Let's Connect
+## 📈 GitHub Stats
 
-- 🌐 **Portfolio**: *Coming Soon*  
-- 💼 **GitHub**: [github.com/akshayanagiri](https://github.com/akshayanagiri)  
-- 💬 **LinkedIn**: [linkedin.com/in/sai-akshaya-nagiri](https://www.linkedin.com/in/sai-akshaya-nagiri/)  
-- 📩 **Email**: [akshayanagiri@gmail.com](mailto:akshayanagiri@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayanagiri&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayanagiri&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let’s Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshayanagiri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-akshaya-nagiri/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayanagiri@gmail.com)
 
 ---
 
 <p align="center">
-  <a href="https://github.com/akshayanagiri?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/🔍 Explore My Repositories-1f8ef1?style=for-the-badge" />
+  <a href="https://github.com/akshayanagiri?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍 Explore My Repositories-blue?style=for-the-badge" />
   </a>
-  <a href="#" target="_blank">
+  <a href="#">
     <img src="https://img.shields.io/badge/🌐 View My Portfolio-orange?style=for-the-badge" />
   </a>
 </p>
 
-## 🙏 Thanks for stopping by!
+---
 
-> _“I love learning, building, and collaborating to turn ideas into real products!”_
-
-
-
+<p align="center"><i>"Learning by building. Always ready to innovate and collaborate!"</i></p>
