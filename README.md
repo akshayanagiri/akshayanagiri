@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#00ADB5;">Sai Akshaya Nagiri</span></h1>
-<p align="center"><strong>🚀 Full-Stack Developer | MERN Stack Enthusiast | Tech Explorer</strong></p>
+<p align="center"><strong>🚀 Software Developer | Full-Stack Developer | MERN Stack Enthusiast | Tech Explorer</strong></p>
 
 
 ---
@@ -10,7 +10,7 @@
 <div class="small-bullet">
   <ul>
     <li>
-      A passionate and driven <b><i>Full-Stack Developer</i></b> and<b> <i>Tech Enthusiast</i></b>.
+      A passionate and driven <b><i> Developer</i></b> and<b> <i>Tech Enthusiast</i></b>.
     </li>
     <li>
       Currently a 4th-year B.Tech student at <b><i>ACE Engineering College</i></b>, pursuing a degree in<b> <i>Computer Science and Engineering (IoT)</i></b>.
@@ -63,7 +63,7 @@
   <ul>
     <li>Mastering the <code>MERN stack</code>and developing full-stack projects.</li>
     <li>Honing my skills in Data Structures and Algorithms (<code>DSA</code>) to build a strong problem-solving foundation.</li>
-    <li>Securing a position as a <code>Full Stack Developer</code> by leveraging my skills and project experience.</li>
+    <li>Securing a position as a <code>Software/Full Stack Developer</code> by leveraging my skills and project experience.</li>
   </ul>
 </div>
 
