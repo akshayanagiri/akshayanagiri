@@ -107,6 +107,18 @@
 <div align="center">
     <table width="100%">
         <tr>
+           <td width="50%" align="center">
+                <h3>🏫 Student Management System</h3>
+                <p><i>It is web-based application built to streamline school management and facilitate communication between students, teachers and admins.</i></p>
+                <p>
+                    <a href="https://github.com/akshayanagiri/Student_Management_System" target="_blank">
+                        <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
+                    </a>
+                    <a href="https://student-management-system-68c5.onrender.com/ target="_blank">
+                        <img src="https://img.shields.io/badge/Live_Demo-0077B5?style=for-the-badge" alt="Live Demo">
+                    </a>
+                </p>
+            </td>
             <td width="50%" align="center">
                 <h3>🧠 Brain Booster</h3>
                 <p><i>A web-based application that enhances memory, focus, and logic skills through a suite of interactive games.</i></p>
@@ -118,19 +130,7 @@
                         <img src="https://img.shields.io/badge/Live_Demo-0077B5?style=for-the-badge" alt="Live Demo">
                     </a>
                 </p>
-            </td>
-            <td width="50%" align="center">
-                <h3>📸 PIXELOG</h3>
-                <p><i>A vintage-themed digital photo journal that lets you save and personalize your moments in a scrapbook-style gallery.</i></p>
-                <p>
-                    <a href="https://github.com/akshayanagiri/pixelog_app" target="_blank">
-                        <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
-                    </a>
-                    <a href="https://pixelogapp.vercel.app/" target="_blank">
-                        <img src="https://img.shields.io/badge/Live_Demo-0077B5?style=for-the-badge" alt="Live Demo">
-                    </a>
-                </p>
-            </td>
+            </td>  
         </tr>
     </table>
 </div>
