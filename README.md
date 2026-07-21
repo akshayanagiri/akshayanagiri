@@ -119,18 +119,19 @@ A web application featuring interactive games designed to improve memory, focus,
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=akshayanagiri&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayanagiri&layout=compact&theme=radical" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayanagiri&show_icons=true&hide_border=true&count_private=true" alt="Sai Akshaya's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayanagiri&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
 
 ---
 
