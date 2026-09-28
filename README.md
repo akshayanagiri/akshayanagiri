@@ -53,7 +53,7 @@ Worked on production systems within the Add To Delivery (ATD) organization, cont
 ### Cloud & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github&size=60" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,firebase&size=60" />
 </p>
 
 ### Databases
@@ -65,7 +65,7 @@ Worked on production systems within the Add To Delivery (ATD) organization, cont
 ### Other
 
 <p>
-  REST APIs • AWS CDK • CloudWatch • CI/CD • QuickSight • Data Structures & Algorithms
+  REST APIs • AWS CDK • CloudWatch • CI/CD • QuickSight • Data Structures & Algorithms • Fabric.js
 </p>
 
 ---
